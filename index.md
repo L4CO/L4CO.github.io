@@ -9,4 +9,4 @@ Der Antiquar und „Buch-Detektiv“ Dean Corso aus New York hat sich auf die Be
 * 17 Jahrhundert - Aristide Torchia
 
 ## Motto
-\*"Es gibt nichts zuverlässigeres als einen Mann, dessen Loyalität man mit barer Münze kaufen kann."\*
+\"Es gibt nichts zuverlässigeres als einen Mann, dessen Loyalität man mit barer Münze kaufen kann.\"
