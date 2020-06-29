@@ -1,14 +1,10 @@
-# Samwise Gamgee - Wahre Helden bleiben unerkannt
-Herr der Ringe dreht sich vor allem um Frodo, der den einen Ring zu zerstören hat. Allerdings ist nicht er der wahre Held, sondern sein Gärtner Sam.
+# Dean Corso
+Der Antiquar und „Buch-Detektiv“ Dean Corso aus New York hat sich auf die Beschaffung sehr seltener Bücher spezialisiert. Um ersehnte Stücke zu ergattern, schreckt er auch vor Betrügereien nicht zurück.
 
-## Charakter Eigenschaften
-* Beruf: Gärtner
-* Spezies: Hobbits
-* Ein friedlebender Geselle
-* Trinkfest
-* Hat sich überwunden und die Hübscheste im Auenland erobert
-* Hat 13 Kinder
-* Wurde Bürgermeister vom Auenland
+## Charakteristik
+* Wolf im Schafspelz
+* Die neun Pforten ins Reich der Schatten
+* Aristide Torchia
 
-## Das ist sein Motto
-It's like in the great stories, Mr. Frodo. The ones that really mattered. Full of darkness and danger they were. And sometimes you didn't want to know the end… because how could the end be happy? How could the world go back to the way it was when so much bad had happened? But in the end, it’s only a passing thing… this shadow. Even darkness must pass.
+## Motto
+Es gibt nichts zuverlässigeres als einen Mann, dessen Loyalität man mit barer Münze kaufen kann.
