@@ -5,6 +5,7 @@ Der Antiquar und „Buch-Detektiv“ Dean Corso aus New York hat sich auf die Be
 * Wolf im Schafspelz
 * Die neun Pforten ins Reich der Schatten
 * Aristide Torchia
+* Aristide Torchia
 
 ## Motto
 Es gibt nichts zuverlässigeres als einen Mann, dessen Loyalität man mit barer Münze kaufen kann.
