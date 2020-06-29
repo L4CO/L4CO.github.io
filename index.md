@@ -1,3 +1,9 @@
 # Dean Corso
 
 Der Antiquar und „Buch-Detektiv“ Dean Corso aus New York hat sich auf die Beschaffung sehr seltener Bücher spezialisiert. Um ersehnte Stücke zu ergattern, schreckt er auch vor Betrügereien nicht zurück.
+
+## Charakteristik
+
+* Wolf im Schafspelz
+* „Die neun Pforten ins Reich der Schatten“
+* 17. Jahrhundert - Aristide Torchia
