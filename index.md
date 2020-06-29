@@ -5,5 +5,5 @@ Der Antiquar und „Buch-Detektiv“ Dean Corso aus New York hat sich auf die Be
 ## Charakteristik
 
 * Wolf im Schafspelz
-* „Die neun Pforten ins Reich der Schatten“
+* Die neun Pforten ins Reich der Schatten
 * 17. Jahrhundert - Aristide Torchia
